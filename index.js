@@ -1,1 +1,3 @@
-console.log('Hola mundo 3')
+const sum = require('./sum')
+console.log(sum(1,3))
+
